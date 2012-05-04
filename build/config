@@ -1,0 +1,12 @@
+;# \n means newline, 
+;# - means this line should be bold
+;# ^ does not exist in kremlin font, which is used in-game, so you can't be cute :(
+MOTD=-Defcon Metaserver Emulator
+LatestVersion=1.43
+UpdateURL=http://defconauthemulator.syn.int.ru
+DatabaseConnection=jdbc:mysql://localhost:3306/defcon
+DatabaseUser=defcon
+DatabasePass=defcon
+DBCheckKey=0
+PurgeDatabase=0
+StoreServersInDB=0

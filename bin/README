@@ -1,0 +1,5 @@
+This is modified defcon game executables, which rely on metaserver's key check.
+
+Dedcon server doesn't contain basic key checks and relies on metaserver's key check anyway.
+
+Linux version patch is not done yet.
